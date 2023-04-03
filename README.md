@@ -1,16 +1,11 @@
-# api_sample
+# random_user
+Get random user using API calls.
 
-A new Flutter project.
+This  Flutter app developed using Flutter version - Channel stable, 3.7.5 And Dart version 2.19.2
 
-## Getting Started
+Installation Instructions:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Download the files and open random_user folder in android studio.(once downloaded ZIP file changes the filder name to random_user)
+2. Run 'flutter pub get' in terminal
+3. open emulator or connect android device to the system
+4. Run using 'flutter run' command.
